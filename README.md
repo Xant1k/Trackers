@@ -2,8 +2,11 @@
 publick and private
 
 udp://IPv6.leechers-paradise.org:6969/announce
+
 udp://tracker.leechers-paradise.org:6969/announce
+
 udp://tracker.coppersurfer.tk:6969/announce
+
 udp://tracker.internetwarriors.net:1337/announce
 udp://exodus.desync.com:6969/announce
 udp://tracker.openbittorrent.com:80/announce
