@@ -8,8 +8,6 @@ udp://tracker.coppersurfer.tk:6969/announce
 
 udp://tracker.internetwarriors.net:1337/announce
 
-udp://exodus.desync.com:6969/announce
-
 udp://tracker.openbittorrent.com:80/announce
 
 udp://tracker.pirateparty.gr:6969/announce
@@ -17,8 +15,6 @@ udp://tracker.pirateparty.gr:6969/announce
 udp://explodie.org:6969/announce
 
 udp://tracker.zer0day.to:1337/announce
-
-udp://tracker.istole.it:80/announce
 
 udp://tracker.ccc.de:80/announce
 
@@ -29,8 +25,6 @@ udp://tracker.vanitycore.co:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 
 udp://9.rarbg.to:2710/announce
-
-udp://torrent.gresille.org:80/announce
 
 udp://tracker.skyts.net:6969/announce
 
