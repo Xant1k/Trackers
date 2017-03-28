@@ -46,6 +46,6 @@ udp://tracker.files.fm:6969/announce
 
 udp://tracker.cuntflaps.me:6969/announce
 
-udp://tracker.cypherpunks.ru:6969/announce			IPv4, IPv6
+IPv4, IPv6: udp://tracker.cypherpunks.ru:6969/announce
 
 cypherpunks.ru TOR: http://xodv6rg4bvpfpcs7.onion:6969/announce
