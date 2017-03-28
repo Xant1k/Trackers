@@ -4,6 +4,8 @@ udp://IPv6.leechers-paradise.org:6969/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
 
+udp://public.popcorn-tracker.org:6969/announce
+
 udp://tracker.coppersurfer.tk:6969/announce
 
 udp://tracker.internetwarriors.net:1337/announce
@@ -31,6 +33,8 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.tiny-vps.com:6969/announce
 
 udp://tracker.doko.moe:6969/announce
+
+udp://tracker.desu.sh:6969/announce
 
 udp://zephir.monocul.us:6969/announce
 
