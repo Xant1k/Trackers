@@ -28,6 +28,12 @@ udp://tracker.vanitycore.co:6969/announce
 
 udp://tracker.opentrackr.org:1337/announce
 
+udp://tracker.christianbro.pw:6969/announce
+
+udp://explodie.org:6969/announce
+
+udp://shubt.net:2710/announce
+
 udp://9.rarbg.to:2710/announce
 
 udp://tracker.skyts.net:6969/announce
