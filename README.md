@@ -56,6 +56,10 @@ udp://tracker.cuntflaps.me:6969/announce
 
 udp://tracker.cyberia.is:6969/announce
 
+udp://tracker.internetwarriors.net:1337/announce
+
+udp://tracker.sktorrent.net:6969/announce
+
 IPv4, IPv6: udp://tracker.cypherpunks.ru:6969/announce
 
 cypherpunks.ru TOR: http://xodv6rg4bvpfpcs7.onion:6969/announce
