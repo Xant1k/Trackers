@@ -1,5 +1,7 @@
 # public and private trackers
 
+Если в торрент-клиенте во вкладке Trackers напротив анонсера статус «Timed out connecting» — вероятнее всего ваш провайдер блокирует трекер или он закрылся.
+
 udp://IPv6.leechers-paradise.org:6969/announce
 
 udp://tracker.leechers-paradise.org:6969/announce
@@ -19,8 +21,6 @@ udp://tracker.pirateparty.gr:6969/announce
 udp://explodie.org:6969/announce
 
 udp://tracker.zer0day.to:1337/announce
-
-udp://tracker.ccc.de:80/announce
 
 udp://tracker.grepler.com:6969/announce
 
